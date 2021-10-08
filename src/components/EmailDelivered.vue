@@ -3,7 +3,7 @@
     <center class="email__wrapper">
       <table class="email__main" width="80%">
         <tr>
-          <td style="padding:20px 10px 10px">
+          <td style="padding:10px 10px 10px">
             <table width="100px" class="email__main__column">
               <tr>
                 <td class="email__main__logo">
@@ -25,7 +25,7 @@
                     <tr>
                       <td>
                         <p
-                          style="font-size:25px;padding-top:48px;padding-bottom:20px"
+                          style="font-size:25px;padding-top:40px;padding-bottom:16px"
                         >
                           <strong>Congratulations!</strong>
                         </p>
@@ -42,7 +42,7 @@
                     </tr>
                     <tr>
                       <td>
-                        <p style="font-size:16px;padding-top:24px">
+                        <p style="font-size:16px;padding-top:26px">
                           Your Baskyt Has Been Successfully Delivered
                         </p>
                       </td>
@@ -634,7 +634,6 @@ export default {
     margin: 0 auto;
     border-spacing: 0;
     color: #171a1b;
-    padding: 20px;
     line-height: 1.5;
     &__social-button {
       // border: 1px solid red;
@@ -742,7 +741,7 @@ export default {
     width: 100% !important;
     background-color: #14182b;
     padding-top: 16px;
-    margin-top: 15px;
+    margin-top: 40px;
     &__links {
       color: white;
       font-size: 9px;

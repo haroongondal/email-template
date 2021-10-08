@@ -3,7 +3,7 @@
     <center class="email__wrapper">
       <table class="email__main" width="80%">
         <tr>
-          <td style="padding:20px 10px 10px">
+          <td style="padding:10px 10px 10px">
             <table width="100px" class="email__main__column">
               <tr>
                 <td class="email__main__logo">
@@ -25,7 +25,7 @@
                     <tr>
                       <td>
                         <p
-                          style="font-size:25px;padding-top:48px;padding-bottom:24px"
+                          style="font-size:25px;padding-top:40px;padding-bottom:16px"
                         >
                           <strong>Thank You for your order</strong>
                         </p>
@@ -714,7 +714,7 @@ export default {
     width: 100% !important;
     background-color: #14182b;
     padding-top: 16px;
-    margin-top: 15px;
+    margin-top: 40px;
     &__links {
       color: white;
       font-size: 9px;
