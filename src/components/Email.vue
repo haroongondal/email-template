@@ -509,12 +509,13 @@
                 </td>
               </tr>
               <tr>
-                <td>
+                <td style="padding-top:10px">
                   <a
                     style="
             margin-left:16px"
+                    href="https://www.facebook.com"
                   >
-                    href="https://www.facebook.com" ><img
+                    <img
                       width="20px"
                       src="../assets/social/facebook.png"
                       alt="facebook"
